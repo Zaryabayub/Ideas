@@ -3,6 +3,7 @@
 * Online job portals such as Rozee.pk, Mustakbil.com, and Jobs.pk
 * Glassdoor salary information: https://www.glassdoor.com/Salaries/pakistan-salary-SRCH_IL.0,7_IN180.htm
 * PayScale: https://www.payscale.com/research/PK/Country=Pakistan/Salary
+* https://www.ilo.org/ifpdial/information-resources/national-labour-law-profiles/WCMS_158916/lang--en/index.htm
 
 # Salary Range in Pakistan
 ### Introduction
