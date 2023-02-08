@@ -5,6 +5,7 @@
 * PayScale: https://www.payscale.com/research/PK/Country=Pakistan/Salary
 * https://www.ilo.org/ifpdial/information-resources/national-labour-law-profiles/WCMS_158916/lang--en/index.htm
 * https://www.finance.gov.pk/circulars/circular_14072017.pdf
+* https://www.godigit.com/finance/salary/what-is-basic-salary#:~:text=The%20basic%20pay%20is%20usually,50%25%20of%20an%20individual%27s%20CTC.&text=Basic%20salary%20%3D%20Gross%20pay%2D%20total,DA%2C%20conveyance%2C%20etc.)
 
 # Salary Range in Pakistan
 ### Introduction
